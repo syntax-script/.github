@@ -1,4 +1,4 @@
-<img src='./syntaxScriptRound.png' height=256 width=256 />
+![Syntax Script Logo](./SyntaxScript-256.png)
 
 # Syntax Script
 > A scripting language designed by you.
