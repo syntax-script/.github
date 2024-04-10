@@ -1,4 +1,4 @@
-![Syntax Script Logo](./SyntaxScript-256.png)
+![Syntax Script Logo](./profile/SyntaxScript-256.png)
 
 # Syntax Script
 > A scripting language designed by you.
